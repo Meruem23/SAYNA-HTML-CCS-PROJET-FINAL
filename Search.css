@@ -1,0 +1,109 @@
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background:  #d35649;
+    padding: 0px;
+}
+.navbar .menu a{
+    text-decoration: none;
+    padding: 18px 30px;
+    color: white;
+}
+.navbar a:hover{
+    background:#98a5a5;
+}
+.box{
+    text-align: center;
+    justify-content: center;
+    background-color: #f0f3f3;
+    padding: 20px;
+
+
+}
+.box h2, input{
+    font-size: 15px;
+
+}
+.box h2{
+    padding-left: 70px;
+}
+.grandBar{
+    padding: 10px;
+    display: flex;
+}
+.Partie1{
+    padding: 50px;
+}
+.Gdive{
+    display: flex;
+}
+.PBar{
+    display: flex;
+    padding:  20px
+}
+.clear{
+    padding-left: 16px;
+    border-radius: 5px solid transparent;
+
+   
+}
+.text{
+    align-items: center;
+    color: #98a5a5;
+}
+.search{
+     padding-left: 40px;
+}
+.Partie1 h1{
+    text-align: center;
+    color: #98a5a5;
+}
+.section2 .Partie1 figure figcaption{
+    display: flex;
+    justify-content: center;
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    opacity: 80%;
+    padding-left: 10px;
+}
+.section6{
+
+    color: white;
+    background-color: black;
+
+}
+.section6 .minitableau{
+    padding: 20px;
+}
+.item001{
+    padding: 50px;
+}
+.item001 .send{
+    background-color:#98a5a5;
+    color: white;
+    font-size: 15px;
+    width: auto;
+    padding-left: -5%;
+}
+.Tableau{
+        justify-content: center;
+        align-items: center;
+        padding-left: 25%;
+        padding-top: 30px;
+        
+}
+footer{
+
+    background-color: #1f1f1f;
+}
+footer .text{
+    padding-left: 59%;
+    font-size: 17px;
+    color: white;
+}
+.icons{
+    padding: 10px;
+}
